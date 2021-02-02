@@ -4,9 +4,11 @@
 ## _Vous aurez besoin de:_
 
 . npm  [ https://www.npmjs.com/ ]  
+
     npm --version
 
 . node [ https://nodejs.org/en/ ]  
+
     node --version
 
 
