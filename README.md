@@ -12,7 +12,7 @@
 
     npx create-react-app mon-app
 
-### 'Lancer votre projet REACT Attention penser a bien etre dans le bon repertoire'
+_Lancer votre projet REACT Attention penser a bien etre dans le bon repertoire_
     
     cd mon-app 
     npm start demarer votre projet
