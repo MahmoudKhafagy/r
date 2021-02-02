@@ -3,9 +3,11 @@
 
 ## _Vous aurez besoin de:_
 
+. npm  [ https://www.npmjs.com/ ]  
+    .npm --version
 
-. npm  [ https://www.npmjs.com/ ]   
 . node [ https://nodejs.org/en/ ]
+    .node --version
 
 
 ### _crée un projet React_
