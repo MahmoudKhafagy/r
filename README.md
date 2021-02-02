@@ -1,3 +1,5 @@
+![ https://www.vhv.rs/dpng/d/612-6126558_react-logo-png-react-js-logo-svg-transparent.png ]
+
 # REACT projet 😁 
 
 
@@ -12,11 +14,11 @@
     node --version
 
 
-### _crée un projet React_
+### _Crée un projet React_
 
     npx create-react-app mon-app
 
 ### _Lancer votre projet REACT Attention penser a bien etre dans le bon repertoire_
     
     cd mon-app 
-    npm start demarer votre projet
+    npm start 
