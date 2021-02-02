@@ -1,18 +1,18 @@
 # REACT projet
 
 
-## _ Vous aurez besoin de: _
+## _Vous aurez besoin de:_
 
 
 . npm  [ https://www.npmjs.com/ ]   
 . node [ https://nodejs.org/en/ ]
 
 
-### _ crée un projet React _
+### _crée un projet React_
 
     npx create-react-app mon-app
 
-### _ Lancer votre projet REACT Attention penser a bien etre dans le bon repertoire _
+### _Lancer votre projet REACT Attention penser a bien etre dans le bon repertoire_
     
     cd mon-app 
     npm start demarer votre projet
